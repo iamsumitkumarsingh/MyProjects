@@ -30,3 +30,5 @@ This is an AI-powered **RAG-based (Retrieval-Augmented Generation) chatbot** bui
 ---
 
 ## 📂 **Project Structure**
+
+📦 Git Cheat Code Assistant │── 📂 app/ # Core application logic │ │── 📄 document_loader.py # Handles document loading & vector embeddings │ │── 📄 work_flow.py # Defines LangGraph workflow │ │── 📄 main.py # Initializes document processing & AI pipeline │ │── 📄 flask.py # Flask server for UI interaction │── 📂 templates/ # HTML templates for the web UI │ │── 📄 index.html # User interface │── 📄 requirements.txt # Dependencies │── 📄 README.md # Project documentation
